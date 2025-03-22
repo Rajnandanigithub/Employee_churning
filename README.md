@@ -5,6 +5,7 @@ Providing Data driven Insights to HR-Employee churning
 In this project, The goal is to analyze the employee data collected by the HR department at Salifort Motors to help predict which employees are likely to leave the company. By building a predictive model, the goal is to identify key factors that contribute to employee turnover. This analysis will provide valuable insights to the HR team, enabling them to take proactive steps to improve employee satisfaction and retention. Reducing turnover can save the company time and resources spent on recruitment and training, making it a crucial initiative for improving overall business performance.
 
 **Methodology**
+
 To predict employee turnover, we employed a combination of machine learning techniques, including Logistic Regression and Tree-Based Approaches (Decision Trees and Random Forest).
 
 **Data Preprocessing:**
